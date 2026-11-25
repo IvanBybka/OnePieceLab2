@@ -1,0 +1,14 @@
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\bin\Debug\net10.0\OnePieceLab2.exe
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\bin\Debug\net10.0\OnePieceLab2.deps.json
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\bin\Debug\net10.0\OnePieceLab2.runtimeconfig.json
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\bin\Debug\net10.0\OnePieceLab2.dll
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\bin\Debug\net10.0\OnePieceLab2.pdb
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.AssemblyInfoInputs.cache
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.AssemblyInfo.cs
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.csproj.CoreCompileInputs.cache
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.dll
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\refint\OnePieceLab2.dll
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.pdb
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\OnePieceLab2.genruntimeconfig.cache
+C:\Programist\OOP Zdor\OnePieceLab2\OnePieceLab2\obj\Debug\net10.0\ref\OnePieceLab2.dll
